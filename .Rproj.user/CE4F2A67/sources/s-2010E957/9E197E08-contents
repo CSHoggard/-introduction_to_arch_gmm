@@ -88,7 +88,7 @@ class: inverse, left
 
 # What are we going to do today?
 
-I will introduction the subject of geometric morphometrics (GMM), specifically:
+I will introduce the subject of geometric morphometrics (GMM), specifically:
 
 1. Shape and shape theory
 
@@ -138,7 +138,7 @@ background-position: 50% 60%
 
 # Shape as...
 
-“In general terms, the shape of an object, dataset or image that can be defined as the total of all information is invariant under **translation**, **rotation**, and **isotropic rescalings**” (Small, 1996: 6)
+“In general terms, the shape of an object, dataset or image that can be defined as the total of all information that is invariant under **translation**, **rotation**, and **isotropic rescalings**” (Small, 1996: 6)
 
 .footnote[Small, C. (1996). *The statistical theory of shape*. New York: Springer.]
 
@@ -150,7 +150,7 @@ background-position: center
 background-size: 35%
 background-position: 50% 70%
 
-# And what about size?
+# But what about size?
 
 Do we use the length? the volume of the object? the mass of an object?
 
@@ -217,17 +217,17 @@ class: inverse, center
 
 # We can use GMM to determine whether…
 
-#### Two or more assemblages are different in shape?
+#### two or more assemblages are different in shape?
 
-#### Shape is related to: size? sex? raw material? hominin?
+#### shape is related to: size? sex? raw material? hominin?
 
-#### Shape differences correspond to a hypothesis or a model?
+#### shape differences correspond to a hypothesis or a model?
 
-#### Mean or median shapes are representative of a site?
+#### mean or median shapes are representative of a site?
 
-#### There are biologically inherent relationships?
+#### there are biologically inherent relationships?
 
-#### Networks of specific shapes can be identified? (over several sites)
+#### networks of specific shapes can be identified? (over several sites)
 
 ---
 class: bottom
@@ -329,7 +329,7 @@ background-position: 90% 50%
 
 # Stage 1: Collecting Input Data
 
-### Methods include (but are not limited to):
+### Methods include:
 
   - **CT Scanning**
   
