@@ -109,7 +109,7 @@ class: inverse, middle, center
 
 ---
 
-background-image: url("figures/selden_et_al_2018.png")
+background-image: url("figures/selden_et_al_2018.PNG")
 background-size: 75%
 background-position: 50% 30%
 
@@ -679,7 +679,7 @@ background-position: 95% 60%
 ---
 class: left
 
-background-image: url("figures/scholtz_et_al_2020.png")
+background-image: url("figures/scholtz_et_al_2020.PNG")
 background-position: contain
 
 .footnote[Scholtz et al. (2020). D'Arcy W. Thompson's Cartesian transformations: a critical evaluation. *Zoomorphology*. (https://doi.org/10.1007/s00435-020-00494-1)]
