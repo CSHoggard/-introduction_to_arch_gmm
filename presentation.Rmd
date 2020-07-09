@@ -65,11 +65,11 @@ There are **three workshops** in total...
 
 --
 
-- **Workshop Two** (13th July): Landmark-based approaches to GMM (R practical)
+- **Workshop Two** (20th July): Landmark-based approaches to GMM (R practical: Geomorph/Tidyverse)
 
 --
 
-- **Workshop Three** (27th July): Outline-based approaches to GMM (R practical)
+- **Workshop Three** (27th July): Outline-based approaches to GMM (R practical: Momocs/Tidyverse)
 
 --
 
@@ -79,7 +79,7 @@ About these workshops...
 
 - All data and R Markdowns (documents and presentations) are on [GitHub](https://www.github.com/CSHoggard/-gmm_liverpool_2020)
 
-- Slack Workspace for Q&A (beyond these three sessions) and informal discussion!
+- Additional software demonstrations: IDAV Landmark Editor (Checkpoint) and TPSdig2/TpsUtil
 
 - Breaks throughout the workshops will facilitate additional questions and guidance! ✔️
 
